@@ -1,4 +1,4 @@
-# Set Python Environment
+# Set Python Environment for Linux or Mac
 
 ## About
 
